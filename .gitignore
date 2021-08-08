@@ -2,8 +2,8 @@
 tmp/
 
 # old
-*._old
-*._backup
+*_old
+*_backup
 
 # thumbs, dsstore
 Thumbs.db
