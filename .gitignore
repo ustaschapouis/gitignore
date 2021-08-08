@@ -3,8 +3,12 @@ tmp/
 
 # old
 *_old
+
+# backup
 *_backup
 
-# thumbs, dsstore
+# thumbs
 Thumbs.db
+
+# dsstore
 *.DS_Store
